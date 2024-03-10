@@ -4,6 +4,8 @@
 # Hello! I am Kyeongbin
 > I am a programmer who always strives to grow!
 
+* I am Kyeongbin Joo, Department of Game, Chungkang University, No.24
+* Using C# for game programming with Unity Engine
 
 
 <br/><br/>
