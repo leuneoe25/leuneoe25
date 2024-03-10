@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
-### Hello! I am Kyeongbin
+
+<div align = "center">
+<h3>Hello! I am Kyeongbin</h3>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leuneoe25&show_icons=true&theme=radical)
