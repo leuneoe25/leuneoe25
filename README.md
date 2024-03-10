@@ -2,7 +2,7 @@
 
 <div align = "center">
 <h3>Hello! I am Kyeongbin</h3>
-i am i
+I am a programmer who always strives to grow!
 
 
 
