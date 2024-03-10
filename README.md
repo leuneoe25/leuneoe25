@@ -2,7 +2,7 @@
 
 
 # Hello! I am Kyeongbin
->> I am a programmer who always strives to grow!
+> I am a programmer who always strives to grow!
 
 
 
