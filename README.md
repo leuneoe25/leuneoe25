@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 ### Hello! I am Kyeongbin
 
 
