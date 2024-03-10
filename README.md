@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
-<div align = "center">
 <h3>Hello! I am Kyeongbin</h3>
 I am a programmer who always strives to grow!
 
