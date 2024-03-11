@@ -6,7 +6,7 @@
 
 * I am Kyeongbin Joo, Department of Game, Chungkang University, No.24
 * Using C# for game programming with Unity Engine
-
+* Using SQL for Database
 
 <br/><br/>
 
